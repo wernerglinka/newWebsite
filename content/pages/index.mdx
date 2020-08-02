@@ -1,0 +1,46 @@
+---
+template: home
+pageMetadata:
+  metaTitle: Werner Glinka Webdeveloper
+  metaDescription: I build websites with Wordpress or JAM Stack. I use static site genrators Gatsby or Metalsmith to build super fast and secure websites.
+  metaImage: ""
+
+pageIntroduction:
+  pageIntro: |-
+    My name is Werner Glinka. I build superfast and secure JAM Stack websites.<sup>*</sup>
+
+    <span><sup>*</sup> And for my more conservative clients, Wordpress it is.</span>
+
+sections:
+  - template: full-width-image-section
+    image: pedestrian-crossing.jpg
+    alt: "The Sorry Remains of a Pedestrian Crossing"
+    component: SectionFullWidthImage
+  - template: two-columns-section
+    component: SectionTwoColumns
+    inContainer: true
+    column1:
+      textSize: "large"
+      text: |-
+        ## Skills
+        - Build fully responsible websites
+        - Accessibility, SEO
+        - HTML, CSS, JS, React, Gatsby, Metalsmith, Wordpress, PHP
+    column2:
+      textSize: "normal"
+      text: |-
+        ## What I do
+        My name is Werner Glinka, a front-end developer based in Minneapolis, MN. I have a strong sense for design, speak the language of designers and respect their decisions and requests. Design firms and companies with internal design resources are my clients. I like to build JAM Stack sites, Gatsby and Metalsmith are my favorites because they are super fast and secure. However, for many clients I have build Wordpress sites. I also build fully functional templates for applications.
+  - template: clients-slider-section
+    title: "I worked with"
+    component: SectionClientsSlider
+    inContainer: false
+  - template: featured-clients
+    title: "Selected Projects"
+    cta:
+      text: More Projects
+      URL: "/projects"
+      isExternal: false
+    component: SectionSelectedProjects
+    inContainer: false
+---

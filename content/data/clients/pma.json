@@ -1,0 +1,18 @@
+{
+  "client": "Peninsula Museum of Art",
+  "website": "https://www.peninsulamuseum.org/",
+  "logo": "pma.png",
+  "description": "",
+  "projects": [
+    {
+      "type": "Museums Website",
+      "tech": "Drupal 7",
+      "designer": "WG",
+      "designerWebsite": "#",
+      "yearBuild": "2015",
+      "image": "pma.jpg",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

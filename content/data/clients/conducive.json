@@ -1,0 +1,18 @@
+{
+  "client": "Conducive Technologies",
+  "website": "",
+  "logo": "",
+  "description": "",
+  "projects": [
+    {
+      "type": "Templates for Data Storage App",
+      "tech": "HTML, CSS, Javascript",
+      "designer": "Busse Design, Oakland, CA",
+      "designerWebsite": "http://www.bussedesign.com/",
+      "yearBuild": "2013",
+      "image": "",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "client": "Netomi",
+  "website": "http://www.netomi.com",
+  "logo": "netomi.png",
+  "description": "",
+  "projects": [
+    {
+      "type": "Corporate Website",
+      "tech": "Wordpress 5",
+      "designer": "In-house",
+      "yearBuild": "2020",
+      "image": "netomi.jpg",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

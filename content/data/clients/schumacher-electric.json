@@ -1,0 +1,18 @@
+{
+  "client": "Schumacher Electric",
+  "website": "https://www.batterychargers.com/",
+  "logo": "schumacher.png",
+  "description": "",
+  "projects": [
+    {
+      "type": "E-Commerce Website",
+      "tech": "Drupal 7",
+      "designer": "Busse Design, Oakland, CA",
+      "designerWebsite": "http://www.bussedesign.com/",
+      "yearBuild": "2018",
+      "image": "schumacher.jpg",
+      "featured": true,
+      "thumbnail": "schumacherTn.jpg"
+    }
+  ]
+}

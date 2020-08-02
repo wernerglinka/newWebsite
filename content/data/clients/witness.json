@@ -1,0 +1,18 @@
+{
+  "client": "Witness.org",
+  "website": "https://www.witness.org/",
+  "logo": "witness.png",
+  "description": "WITNESS helps people use video and technology to protect and defend human rights.",
+  "projects": [
+    {
+      "type": "Corporate Website",
+      "tech": "Drupal 6",
+      "designer": "Busse Design, Oakland, CA",
+      "designerWebsite": "http://www.bussedesign.com/",
+      "yearBuild": "2011",
+      "image": "witness.jpg",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

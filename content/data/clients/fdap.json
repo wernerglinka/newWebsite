@@ -1,0 +1,18 @@
+{
+  "client": "First District Appellate Project",
+  "website": "http://www.fdap.org",
+  "logo": "fdap.png",
+  "description": "",
+  "projects": [
+    {
+      "type": "Corporate Website",
+      "tech": "Wordpress 5",
+      "designer": "Busse Design, Oakland, CA",
+      "designerWebsite": "http://www.bussedesign.com/",
+      "yearBuild": "2020",
+      "image": "fdap.jpg",
+      "featured": true,
+      "thumbnail": "fdapTn.jpg"
+    }
+  ]
+}

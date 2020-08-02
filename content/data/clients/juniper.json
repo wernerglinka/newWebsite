@@ -1,0 +1,18 @@
+{
+  "client": "Juniper Networks",
+  "website": "",
+  "logo": "",
+  "description": "",
+  "projects": [
+    {
+      "type": "Internal world-wide partner site",
+      "tech": "Wordpress",
+      "designer": "ArmorBlue, CA",
+      "designerWebsite": "",
+      "yearBuild": "2012",
+      "image": "",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

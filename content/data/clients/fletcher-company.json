@@ -1,0 +1,18 @@
+{
+  "client": "Fletcher & Company",
+  "website": "",
+  "logo": "",
+  "description": "",
+  "projects": [
+    {
+      "type": "Asset Management Webapp",
+      "tech": "Drupal 7",
+      "designer": "WG",
+      "designerWebsite": "#",
+      "yearBuild": "2015",
+      "image": "",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

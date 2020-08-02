@@ -1,0 +1,18 @@
+{
+  "client": "Technovation[MN]",
+  "website": "https://technovationmn.org/",
+  "logo": "technovationmn.png",
+  "description": "Technovation[MN] inspires and empowers girls to leverage technology to make an impact on their communities. They are a non-profit organization that brings technology and entrepreneurial programs to girls to spark interest, build technical knowledge and develop confidence.",
+  "projects": [
+    {
+      "type": "Non-profit organization Website",
+      "tech": "Wordpress 5",
+      "designer": "WG",
+      "designerWebsite": "#",
+      "yearBuild": "2019",
+      "image": "technovationmn.jpg",
+      "featured": true,
+      "thumbnail": "technovationTn.jpg"
+    }
+  ]
+}

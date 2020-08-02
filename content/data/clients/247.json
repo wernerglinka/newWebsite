@@ -1,0 +1,38 @@
+{
+  "client": "[24]7 Inc.",
+  "website": "https://www.247.ai/",
+  "logo": "247.png",
+  "description": "[24]7.ai is using artificial intelligence and machine learning to understand consumer intent, the company’s technology helps companies create a personalized, predictive and effortless customer experience across all channels.",
+  "projects": [
+    {
+      "type": "Corporate Website",
+      "tech": "Drupal 7",
+      "designer": "Busse Design, Oakland, CA",
+      "designerWebsite": "http://www.bussedesign.com/",
+      "yearBuild": "2016",
+      "image": "247-2.jpg",
+      "featured": true,
+      "thumbnail": ""
+    },
+    {
+      "type": "Customer Support Website",
+      "tech": "Drupal 7",
+      "designer": "Busse Design, Oakland, CA",
+      "designerWebsite": "http://www.bussedesign.com/",
+      "yearBuild": "2015",
+      "image": "247-support.jpg",
+      "featured": false,
+      "thumbnail": ""
+    },
+    {
+      "type": "Corporate Website",
+      "tech": "Drupal 7",
+      "designer": "1185 Design, Palo Alto, CA",
+      "designerWebsite": "http://www.1185design.com/",
+      "yearBuild": "2014",
+      "image": "247-1.jpg",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

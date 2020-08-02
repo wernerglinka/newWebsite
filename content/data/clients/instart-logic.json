@@ -1,0 +1,18 @@
+{
+  "client": "Instart Logic",
+  "website": "",
+  "logo": "instart-logic.png",
+  "description": "",
+  "projects": [
+    {
+      "type": "Corporate Website",
+      "tech": "Drupal 7",
+      "designer": "1185 Design, Palo Alto, CA",
+      "designerWebsite": "http://www.1185design.com/",
+      "yearBuild": "2015",
+      "image": "instart-logic.jpg",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

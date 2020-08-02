@@ -1,0 +1,28 @@
+{
+  "client": "Paula Schaefer Law",
+  "website": "https://paulaschaeferlaw.com/",
+  "logo": "paula-schaefer-law.png",
+  "description": "Paula Schaefer Law is a law firm specializing in business entity Formation, business transactions and estate planning",
+  "projects": [
+    {
+      "type": "Law Firm Website",
+      "tech": "JAM Stack, Metalsmith, Nunjucks",
+      "designer": "ONELAW HTML Template",
+      "designerWebsite": "",
+      "yearBuild": "2017",
+      "image": "paula-schaefer-law.jpg",
+      "featured": false,
+      "thumbnail": ""
+    },
+    {
+      "type": "Law Firm Website",
+      "tech": "Wordpress",
+      "designer": "WG",
+      "designerWebsite": "",
+      "yearBuild": "2011",
+      "image": "paula-schaefer-law.jpg",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

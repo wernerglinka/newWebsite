@@ -1,0 +1,18 @@
+{
+  "client": "German American Artists",
+  "website": "",
+  "logo": "",
+  "description": "",
+  "projects": [
+    {
+      "type": "Artist Organization Website",
+      "tech": "Joomla",
+      "designer": "WG",
+      "designerWebsite": "#",
+      "yearBuild": "2008",
+      "image": "",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

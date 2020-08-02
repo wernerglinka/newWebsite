@@ -1,0 +1,18 @@
+{
+  "client": "Goetz & Eckland",
+  "website": "http://www.goetzeckland.com/",
+  "logo": "goetz-eckland.png",
+  "description": "Goetz & Eckland is a full-service litigation firm, with lawyers who specialize in civil and criminal cases, from both the plaintiff side and the defense side.",
+  "projects": [
+    {
+      "type": "Law Firm Website",
+      "tech": "JAM Stack, Metalsmith, Nunjucks",
+      "designer": "Monopol HTML Template",
+      "designerWebsite": "",
+      "yearBuild": "2017",
+      "image": "goetz-eckland.jpg",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "client": "Long Term Stock Exchange",
+  "website": "https://ltse.com/",
+  "logo": "ltse.png",
+  "description": "",
+  "projects": [
+    {
+      "type": "Proof of Concept, MVP",
+      "tech": "Drupal 7",
+      "designer": "Marcus Gosling ",
+      "designerWebsite": "",
+      "yearBuild": "2014",
+      "image": "ltse.jpg",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

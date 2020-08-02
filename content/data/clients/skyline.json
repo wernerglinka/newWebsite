@@ -1,0 +1,28 @@
+{
+  "client": "Skyline Group",
+  "website": "",
+  "logo": "",
+  "description": "",
+  "projects": [
+    {
+      "type": "Corporate Website",
+      "tech": "Joomla",
+      "designer": "Rasteroids",
+      "designerWebsite": "",
+      "yearBuild": "2010",
+      "image": "",
+      "featured": false,
+      "thumbnail": ""
+    },
+    {
+      "type": "Corporate Website",
+      "tech": "Joomla",
+      "designer": "In-house",
+      "designerWebsite": "",
+      "yearBuild": "2008",
+      "image": "",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

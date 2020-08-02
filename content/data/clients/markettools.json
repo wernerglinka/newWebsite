@@ -1,0 +1,18 @@
+{
+  "client": "MarketTools",
+  "website": "",
+  "logo": "markettools.png",
+  "description": "MarketTools provides consumer insights that drive smarter business decisions. MarketTools was aquired by MetrixLab BV.",
+  "projects": [
+    {
+      "type": "Corporate Website",
+      "tech": "Drupal 6",
+      "designer": "Busse Design, Oakland, CA",
+      "designerWebsite": "http://www.bussedesign.com/",
+      "yearBuild": "2010",
+      "image": "",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

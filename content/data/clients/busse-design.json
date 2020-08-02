@@ -1,0 +1,18 @@
+{
+  "client": "Busse Design",
+  "website": "http://www.bussedesign.com/",
+  "logo": "busse-design.png",
+  "description": "Founded in 1997, Busse Design USA is a Bay Area, full-service user experience design firm, specializing in device and SAAS applications. ",
+  "projects": [
+    {
+      "type": "Corporate Website",
+      "tech": "Drupal 7",
+      "designer": "Busse Design, Oakland, CA",
+      "designerWebsite": "http://www.bussedesign.com/",
+      "yearBuild": "2013",
+      "image": "busse-design.jpg",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

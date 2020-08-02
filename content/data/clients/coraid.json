@@ -1,0 +1,18 @@
+{
+  "client": "Coraid Storage",
+  "website": "",
+  "logo": "",
+  "description": "",
+  "projects": [
+    {
+      "type": "Templates for Corporate Website",
+      "tech": "HTML, CSS, Javascript",
+      "designer": "Busse Design, Oakland, CA",
+      "designerWebsite": "http://www.bussedesign.com/",
+      "yearBuild": "2014",
+      "image": "",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

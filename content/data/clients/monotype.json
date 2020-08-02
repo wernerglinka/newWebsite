@@ -1,0 +1,18 @@
+{
+  "client": "Monotype",
+  "website": "",
+  "logo": "monotype.png",
+  "description": "Investor relationship site for Monotype Imaging",
+  "projects": [
+    {
+      "type": "Investor Relationship Website",
+      "tech": "Static HTM site",
+      "designer": "Busse Design, Oakland, CA",
+      "designerWebsite": "http://www.bussedesign.com/",
+      "yearBuild": "2012",
+      "image": "",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

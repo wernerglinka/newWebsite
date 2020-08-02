@@ -1,0 +1,18 @@
+{
+  "client": "PowerReviews",
+  "website": "",
+  "logo": "",
+  "description": "At the time PowerReviews was a very large social commerce network. It was aquired by BazzarVoice in 2014",
+  "projects": [
+    {
+      "type": "Corporate Website",
+      "tech": "Drupal 6",
+      "designer": "Busse Design, Oakland, CA",
+      "designerWebsite": "http://www.bussedesign.com/",
+      "yearBuild": "2012",
+      "image": "",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "client": "Tableau SW",
+  "website": "https://www.tableau.com/",
+  "logo": "tableau.png",
+  "description": "Tableau is business intelligence software that helps people see and understand their data. ",
+  "projects": [
+    {
+      "type": "Template for Corporate Website",
+      "tech": "HTML, CSS, Javascript",
+      "designer": "Busse Design, Oakland, CA",
+      "designerWebsite": "http://www.bussedesign.com/",
+      "yearBuild": "2010",
+      "image": "",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

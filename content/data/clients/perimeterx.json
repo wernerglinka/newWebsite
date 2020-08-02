@@ -1,0 +1,26 @@
+{
+  "client": "Perimeterx",
+  "website": "http://www.perimeterx.com",
+  "logo": "perimeterx.png",
+  "description": "",
+  "projects": [
+    {
+      "type": "Corporate Website",
+      "tech": "Metalsmith, Nunjucks",
+      "designer": "Loolyan, Tel Aviv, Israel",
+      "yearBuild": "2017",
+      "image": "perimeterx1.jpg",
+      "featured": false,
+      "thumbnail": ""
+    },
+    {
+      "type": "Corporate Website",
+      "tech": "Gatsby, React",
+      "designer": "In-house",
+      "yearBuild": "2020",
+      "image": "perimeterx2.jpg",
+      "featured": true,
+      "thumbnail": "perimeterxTn.jpg"
+    }
+  ]
+}

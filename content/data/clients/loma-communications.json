@@ -1,0 +1,28 @@
+{
+  "client": "Loma Communications",
+  "website": "http://www.lomacommunications.com",
+  "logo": "loma.png",
+  "description": "",
+  "projects": [
+    {
+      "type": "Corporate Website",
+      "tech": "JAM Stack, Metalsmith, Nunjucks",
+      "designer": "Quirk Creative, New York",
+      "designerWebsite": "https://findyourquirk.com/",
+      "yearBuild": "2015",
+      "image": "loma-1.jpg",
+      "featured": true,
+      "thumbnail": ""
+    },
+    {
+      "type": "Corporate Website",
+      "tech": "Drupal 6",
+      "designer": "Busse Design, Oakland, CA",
+      "designerWebsite": "http://www.bussedesign.com/",
+      "yearBuild": "2013",
+      "image": "loma-2.jpg",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

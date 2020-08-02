@@ -1,0 +1,17 @@
+{
+  "title": "Gatsby Square1 MDX Starter",
+  "description": "Aenean lacinia bibendum nulla sed consectetur. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+  "author": "werner@glinka.co",
+  "siteURL": "https://www.square1.com",
+  "social": {
+    "siteOwner": "Site Owner",
+    "twitter": "twitter",
+    "linkedIn": "linkedin"
+  },
+  "munchkinId": "785-UHP-77",
+  "imagePrefix": "https://res.cloudinary.com/glinkaco/image/upload",
+  "footer": {
+    "image": "fall.jpg",
+    "copyright": "© Werner Glinka. All rights reserved"
+  }
+}

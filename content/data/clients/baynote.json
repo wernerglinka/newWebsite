@@ -1,0 +1,18 @@
+{
+  "client": "Baynote",
+  "website": "",
+  "logo": "",
+  "description": "",
+  "projects": [
+    {
+      "type": "Teplates for Retail Products Management App",
+      "tech": "HTML, CSS, Javascript",
+      "designer": "Busse Design, Oakland, CA",
+      "designerWebsite": "http://www.bussedesign.com/",
+      "yearBuild": "2013",
+      "image": "",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

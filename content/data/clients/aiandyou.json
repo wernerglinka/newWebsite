@@ -1,0 +1,18 @@
+{
+  "client": "AI and You",
+  "website": "https://aiandyou.org/",
+  "logo": "aiandyou.png",
+  "description": "AIandYou.org’s mission is to educate and engage marginalized communities about artificial intelligence (AI). ",
+  "projects": [
+    {
+      "type": "Non-profit Organization Website",
+      "tech": "JAM Stack, Gatsby, React",
+      "designer": "WG",
+      "designerWebsite": "#",
+      "yearBuild": "2020",
+      "image": "aiandyou.jpg",
+      "featured": true,
+      "thumbnail": "aiandyouTn.jpg"
+    }
+  ]
+}

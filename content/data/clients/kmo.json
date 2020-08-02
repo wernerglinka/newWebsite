@@ -1,0 +1,18 @@
+{
+  "client": "Kings Mountain Online",
+  "website": "http://kingsmountainonline.com/",
+  "logo": "kmo.png",
+  "description": "A website for the Kings Mountain community in San Mateo County, CA",
+  "projects": [
+    {
+      "type": "Non-profit Organization",
+      "tech": "Drupal 7",
+      "designer": "WG",
+      "designerWebsite": "#",
+      "yearBuild": "2012",
+      "image": "kmo.jpg",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

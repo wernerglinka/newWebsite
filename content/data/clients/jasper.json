@@ -1,0 +1,18 @@
+{
+  "client": "Jasper",
+  "website": "https://web.archive.org/web/20140517083019/http://www.jasper.com/",
+  "logo": "jasper.png",
+  "description": "Jasper Technologies is an IoT start-up which provides connected devices to service providers. These devices connect through mobile networks and are managed via the cloud. Jasper was aquired by Cisco in 2016.",
+  "projects": [
+    {
+      "type": "Corporate Website",
+      "tech": "Drupal 7",
+      "designer": "1185 Design, Palo Alto, CA",
+      "designerWebsite": "http://www.1185design.com/",
+      "yearBuild": "2014",
+      "image": "jasper.jpg",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "client": "Code Savvy",
+  "website": "https://codesavvy.org/",
+  "logo": "codesavvy.png",
+  "description": "",
+  "projects": [
+    {
+      "type": "Non-profit organization Website",
+      "tech": "JAM Stack, Metalsmith, Nunjuck",
+      "designer": "WG",
+      "designerWebsite": "#",
+      "yearBuild": "2018",
+      "image": "codesavvy.jpg",
+      "featured": false,
+      "thumbnail": ""
+    }
+  ]
+}
